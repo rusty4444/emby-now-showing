@@ -152,7 +152,8 @@ If you're using a landscape/widescreen display instead of a portrait tablet, set
 
 ## Related
 
-- [emby-recently-added-card](https://github.com/rusty4444/emby-recently-added-card) — a Lovelace card showing recently added Emby media
+- [recently-added-media-card](https://github.com/rusty4444/recently-added-media-card) — a unified Lovelace card showing recently added media from Plex, Kodi, Jellyfin or Emby
+- [coming-soon-card](https://github.com/rusty4444/coming-soon-card) — a companion card showing upcoming movies and TV episodes from Radarr, Sonarr and Trakt
 - [plex-now-showing](https://github.com/rusty4444/plex-now-showing) — the Plex version of this project
 - [kodi-now-showing](https://github.com/rusty4444/kodi-now-showing) — the Kodi version of this project
 - [jellyfin-now-showing](https://github.com/rusty4444/jellyfin-now-showing) — the Jellyfin version of this project
